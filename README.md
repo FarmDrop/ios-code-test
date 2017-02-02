@@ -57,7 +57,6 @@ NB: When there are no more pages, the `response` key will contain an empty array
 ## <a name="evaluation_criteria"/>Evaluation criteria:
 
 - Quality is better than quantity
-- Use of SDK versions compatible with Google Play
 - Maintain a consistent navigation structure, be it tabs or sliding menus
 - Device orientation handling is not required, although we expect you to structure your code to be able to easily add support for this
 - Architecture, how clean and structured the code is. 
